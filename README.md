@@ -4,6 +4,7 @@
 
 * 周总结与任务一同上交
 
+> 最好是创建一个GitHub账号，然后把自己的作业，周总结都传到GitHub上。
 
 *  周总结内容，[周总结模板](https://pan.baidu.com/s/1mzDEO7JUpXpUc1nnbETwgQ) 提取码：5ji2
 >
