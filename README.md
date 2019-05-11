@@ -6,7 +6,7 @@
 
 > 最好是创建一个GitHub账号，然后把自己的作业，周总结都传到GitHub上。
 
-*  周总结内容，[周总结模板](https://pan.baidu.com/s/1mzDEO7JUpXpUc1nnbETwgQ) 提取码：5ji2
+*  周总结内容，[周总结模板](https://pan.baidu.com/s/1BwX4NPPKFV0o5P5n--ZYzA) 提取码：s4k8
 >
 >  1. 本周的学习笔记
 >  2. 下周的学习安排
